@@ -19,4 +19,3 @@ var vue = new Vue({
     },
 });
 
-// result: '', - строка, eval(this.result) - делает математической
