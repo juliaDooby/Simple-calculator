@@ -1,2 +1,6 @@
-# Simple-calculator
-Simple-calculator on Vue
+
+# Простой калькулятор / Simple calculator 
+
+
+>> Simple-calculator on Vue
+
