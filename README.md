@@ -2,6 +2,7 @@
 ## Простой калькулятор / Simple calculator 
 
  [Посмотрите сами](https://juliadooby.github.io/Simple-calculator/)
+ 
 ---
 
 ### Стек / Stack:
