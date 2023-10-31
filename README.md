@@ -1,28 +1,18 @@
 
-### NOTE FOR ME: INSTEAD !
+<!-- Сменить -->
 
-## Простой калькулятор / Simple calculator 
+## Simple calculator
 
- [Посмотрите сами](https://juliadooby.github.io/Simple-calculator/)
- 
+<div align="center"><img src="" width="100%" height="20%"></img></div>
+
+  [demo](https://juliadooby.github.io/Simple-calculator/)
 ---
+<!--
+ ### Development: 
 
-### Стек / Stack:
+* The calculator calculates the total cost of the trip and displays information in the order field  
+---
+-->
+### Technologies Used:
 
 * Vue
-
----
-
-### Инструкция по установке проекта 
-
-1. Выполните клонирование репозитория через <зеленую> кнопку '<> Code' 
-2. Перейдите во вкладку GitHub CLI
-3. Скопируйте ссылку и вставьте в свой терминал
-4. Дождитесь окончания загрузки 
-5. Наберите команду npm run serve, если у вас уже установлен Vue, дождитесь автоматического запуска программы
-6. Если у Вас не установлен Vue, установите, написав команду npm install -g @vue/cli.
-7. После установки Vue на вашем компьютере, повторите шаги запуска проекта через клонирование репозитория
- 
- ---
- 
-## Не забудьте поставить звездочку ! ! ! ★ 
