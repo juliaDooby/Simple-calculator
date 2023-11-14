@@ -3,7 +3,7 @@
 
 ## Simple calculator
 
-<div align="center"><img src="https://github.com/juliaDooby/Simple-calculator/blob/main/simple_calc.JPG" width="100%" height="20%"></img></div>
+<div align="center"><img src="https://github.com/juliaDooby/Simple-calculator/blob/main/simple_calc.JPG" width="50%" height="20%"></img></div>
 
   [demo](https://juliadooby.github.io/Simple-calculator/)
 ---
